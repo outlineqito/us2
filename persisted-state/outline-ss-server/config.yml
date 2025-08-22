@@ -24,10 +24,6 @@ keys:
     port: 55652
     secret: MmiLKTin1EpTKm9vo9r8kj
   - cipher: chacha20-ietf-poly1305
-    id: '6'
-    port: 55652
-    secret: bCUq1h3zdBnAGPF5zhjr7f
-  - cipher: chacha20-ietf-poly1305
     id: '7'
     port: 55652
     secret: 1T4VhhhItXHQ0InNhw9BWx
